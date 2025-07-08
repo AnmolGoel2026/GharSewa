@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "./_components/Header";
 import NextAuthSessionProvider from './provider'
 import { Toaster } from "@/components/ui/sonner";
-import Footer from "./_components/footer";
+import Footer from "./_components/Footer";
 const outfit = Outfit({
   variable: "--font - outfit",
   subsets: ["latin"],
